@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋
-[![My github stats](https://github-readme-stats.vercel.app/api?username=shankardesigner&show_icons=true&theme=radical)](https://github.com/shankardesigner/shankardesigner)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=shankardesigner&show_icons=true&theme=tokyonight)](https://github.com/shankardesigner/shankardesigner)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankardesigner&layout=compact&theme=radical)](https://github.com/shankardesigner/shankardesigner)
 

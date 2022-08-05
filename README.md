@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shankardesigner/shankardesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+[![My github stats](https://github-readme-stats.vercel.app/api?username=shankardesigner&show_icons=true&theme=radical)](https://github.com/shankardesigner/shankardesigner)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankardesigner&layout=compact&theme=radical)](https://github.com/shankardesigner/shankardesigner)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shankardesigner&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=shankardesigner&color=lightgrey)
